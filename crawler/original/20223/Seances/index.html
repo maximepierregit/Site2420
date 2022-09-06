@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta http-equiv="Content-Language" content="fr-ca">
+<link rel="shortcut icon" href="https://www.polymtl.ca/profiles/portail/themes/custom/theme_polytechnique/favicon.ico" type="image/vnd.microsoft.icon" />
+<LINK REL="STYLESHEET" HREF="../../global.css" type="text/css">
+<LINK REL="STYLESHEET" HREF="local.css" type="text/css">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+
+
+<TITLE>LOG2420 &ndash; Interfaces utilisateurs</TITLE>
+
+
+</HEAD>
+<style>
+  .avenir  {background-color: transparent; }
+  .annul {opacity:0.5; text-decoration: line-through;}
+  p, ul { padding-top: 0px; padding-bottom: 0px; margin-top:0px; margin-bottom:0px; }
+  .article {border-top:0 solid black;}
+  .preshow {display: block;}
+  .assign {display: block;}
+</style>
+
+
+<script>
+window.onload = function() {
+    includeHTML();
+    if(document.getElementById('nonexam2')) {
+	document.getElementById('nonexam2').addEventListener('click', function() {
+	    for(let i of document.getElementsByClassName('nonexam')) {
+		i.style.display = 'inline';
+	    }
+	});
+    }
+  processCollabsible();
+  collapContent = document.getElementsByClassName('collapsible');
+  if(collapContent.length > 0) {
+    Array.from(collapContent).forEach(i => {
+      ulTags = i.nextElementSibling.getElementsByTagName('ul');
+      if(ulTags.length > 0) {
+	i.innerHTML = i.innerText + '&nbsp;(' + ulTags[0].childElementCount + ')' ;
+      }
+    });
+  }
+}
+
+
+</script>
+<div w3-include-html="../../global.html"></div> 
+
+<TITLE>LOG2420 &ndash; Interfaces utilisateurs</TITLE>
+
+
+</HEAD>
+
+<BODY BGCOLOR=WHITE>
+<link REL=\"SHORTCUT ICON\" HREF=\"../../Images/gi.ico\">
+<table border="0" width="100%" >
+  <tr>
+    <td  colspan=3>
+      <table height=75 style="background-repeat:repeat;background-image:url('../../background2.jpg');">
+	<tr><td ><a href="http://www.polymtl.ca/"><img alt="LOG2420" ismap border=0 src="../../Images/logo03.gif" /></a></td>
+          <td>&nbsp;</td>
+	  <td width="100%"><FONT SIZE="+2" style="font-weight:bold;color:midnigntblue; font-family:Verdana,Arial,sans-serif;"> LOG2420,  Analyse et conception des interfaces utilisateurs</FONT><br><font size="+1" color="midnightblue">Automne 2022</font></td>
+	  <td align=right valign=center valign=top>
+	  </td>
+	</tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td colspan=3><img height=3 width=100% border=0 src="../../Images/border.png" />
+
+      <tr valign=top><td style="padding-top:18pt;" padding=0 >
+      </tr>
+</table>
+
+<div w3-include-html='../../nav.html' ></div>
+
+<div class="content" id="content">
+<h1 style="margin-top:0em;">Séances &ndash; Interfaces utilisateurs</h1>
+
+<p class="semnav">Aller à la semaine&nbsp;:  <br>
+<a href="#1">1</a>
+<a href="#2">2</a>
+<a href="#3">3</a>
+<a href="#4">4</a>
+<a href="#5">5</a>
+<a href="#6">6</a>
+<a href="#7">7</a>
+<a href="#8">8</a>
+<a href="#9">9</a>
+<a href="#10">10</a>
+<a href="#11">11</a>
+<a href="#12">12</a>
+<a href="#13">13</a>
+<a href="#14">14</a>
+</p>
+
+
+
+<br>
+
+<table class="special" style="border:1pt solid midnightblue;" cellspacing="0" cellpadding=5>
+  <tr><th colspan=2>Semaine<th>Diapos<th>Documents<th class="eval">Éval.<th class="lab" >Labo. <button id="labbutton">X</button></th>
+  </tr>
+
+  <!-- semaine 1 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li><a href="../../Seances/Intro/intro.pdf">Introduction</a></li> 
+      <li><a href="https://polymtl-ca.zoom.us/rec/share/6_nwkSQjpEYFgXPLB7eMp7AZ5hWtIQOsg38cw8P7MowaUeL60PfIC63c7usuEW0I.cXxZIELxarbhFJFy?startTime=1661862679000">Séance vidéo</a> (Passcode: PR@Qz8Q3) (invitée Hanane, commence à 1:59:00)</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class='collapContent'>
+      <ul>
+	<li style="text-decoration:line-through">  Livre de référence&nbsp;: Méthodes de design UX : 30 méthodes fondamentales pour concevoir des expériences optimales 2e éd.</li>
+	<li> Lectures&nbsp;:
+	  <ul>
+	    <li> Choix 1 en anglais :
+	      <ul>
+		<li><a href="http://www.criiasupr.org/multimedia/documents/Human%20Centred%20Design-Martin%20Maguire.pdf">
+		    Maguire, Methods to support human-centred design</a>, sections 1 à 3. </li>
+	      </ul>
+	    </li>
+	    <li> Choix 2 en français :
+	      <ul>
+		<li>Lallemand, Méthodes de design UX, p.25-30</li>
+		<li>Lallemand, Introduction au design UX, p.31-40</li>
+		<li>Lallemand, fiche 1a, p.42-55</li>
+	      </ul>
+	    </li>
+	  </ul>
+	</li>
+	<li><a href="https://www.youtube.com/watch?v=mHV5ZVSqZ0A">Succès du iPod</a></li>
+	<li>  Une <a href="../Tp/inscrits-20220828.csv">liste des inscrits</a> (fichier CSV) afin de vous aider à la création des équipes</li>
+      </ul>
+    </div>
+    <div class="collapContent">
+      <ul>
+	<li></li>
+      </ul>
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab">
+    <a href="../Tp/Images/5-cal_bac_labos_aut.png">Horaire des labos</a>
+  </td>
+</tr> 
+
+  <!-- semaine 2 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li><a href="../../Seances/Processus/processus.pdf">Processus et exigences</a></li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+      <ul>
+	<li><a href="valid-ateliers.pdf">Qualité psychométrique des ateliers</a></li>
+	<li><a href="https://careerfoundry.com/en/portfolios/elvira-hellenpart/">Portfolio Hellenpart</a>
+      </ul>
+    </div>
+  </td>
+  <td class="eval">
+    &nbsp;
+  </td>
+  <td class="lab b2me b2je">
+    <a href="../Tp/Videos/app-analyse-tp1.mp4">TP1, Vidéo application analyse</a>
+  </td>
+</tr> 
+
+  <!-- semaine 3 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Utilisabilité et principes de conception (suite)</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab b1me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 4 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Utilisabilité et principes de conception (suite)</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    TP1 (23&nbsp;sept.)
+  </td>
+  <td class="lab b2me b2je">
+</td>
+</tr> 
+
+  <!-- semaine 5 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Utilisabilité et principes de conception (suite)</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab b1me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 6 -->
+<tr>
+  <td class="right sem"><td class="right jour cor1"></td>
+  <td class="transp" colspan=2 style="text-align:center;">
+    <b>Intra jeudi 6 octobre 19h00 à 21h00</b> <br>
+      (pas de cours cette semaine)
+  <td class="eval">
+     TP2 (7&nbsp;oct)
+ </td>
+  <td class="lab b1me b2je">
+  </td>
+</tr> 
+
+  <!-- semaine 7 -->
+<tr style="background-color:lightgrey;"><td class="right sem"><td class="right jour">
+  <td colspan=5 style="text-align:center;"><i>Période de relâche</i>
+  </td>
+</tr>
+
+  <!-- semaine 8 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Architecture</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab b2me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 9 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Architecture&nbsp(suite)</li>
+      <li>Interfaces persuasives</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    TP3 (28&nbsp;oct.)
+  </td>
+  <td class="lab b1me b2je">
+</td>
+</tr> 
+
+  <!-- semaine 10 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Engagement, motivation, divertissement</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    &nbsp;
+  </td>
+  <td class="lab b2me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 11 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Adaptation et personnalisation</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    &nbsp;
+  </td>
+  <td class="lab b1me b2je">
+</td>
+</tr> 
+
+  <!-- semaine 12 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Évaluation et tests heuristiques</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab b2me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 13 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    <ul>
+      <li>Invité</li>
+    </ul>
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    TP4 (21&nbsp;nov.)
+  </td>
+  <td class="lab b1me b2je">
+</td>
+</tr> 
+
+  <!-- semaine 14 -->
+<tr>
+  <td class="right sem"><td class="right jour"></td>
+  <td class="transp">
+    Révision
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+  </td>
+  <td class="lab b2me b1je b1ve">
+</td>
+</tr> 
+
+  <!-- semaine 15 -->
+<tr>
+  <td class="right sem"><td class="right jour cor2"></td>
+  <td class="transp">
+    <b>Pas de cours</b> (journée du mardi 4&nbsp;octobre remplacée par examen)
+  </td>
+  <td class="documents">
+    <button class="collapsible"></button>
+    <div class="collapContent">
+    </div>
+  </td>
+  <td class="eval">
+    TP5 (9&nbsp;déc.)
+  </td>
+  <td class="lab">
+</td>
+</tr> 
+
+</table>
+
+<p style="padding-bottom:400px;"></p>
+
+<script src="../../google-analytics.js"></script>
+<script src="../../global.js"></script>
+<script src="../../collap.js"></script>
+<script src="local.js"></script>
+
+<script>
+  let cor1 = document.getElementsByClassName('cor1');
+  cor1[0].innerHTML = "<b>7 Oct<b>";
+  let cor2 = document.getElementsByClassName('cor2');
+  cor2[0].innerHTML = "<b>7 Déc<b>";
+</script>
+
+</div>
+
+</body>
+</html>

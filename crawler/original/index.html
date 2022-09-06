@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta http-equiv="Content-Language" content="fr-ca">
+<link rel="shortcut icon" href="https://www.polymtl.ca/profiles/portail/themes/custom/theme_polytechnique/favicon.ico" type="image/vnd.microsoft.icon" />
+<LINK REL="STYLESHEET" HREF="global.css" type="text/css">
+<LINK REL="STYLESHEET" HREF="local.css" type="text/css">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+
+
+<TITLE>LOG2420 &ndash; Interfaces utilisateurs</TITLE>
+
+
+<script>
+window.onload = function() {
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    for (i = 0; i < coll.length; i++) {
+  	coll[i].addEventListener("click", function() {
+  	    this.classList.toggle("active");
+  	    var content = this.nextElementSibling;
+  	    if (content.style.display === "block") {
+  		content.style.display = "none";
+  	    } else {
+  		content.style.display = "block";
+  	    }
+  	});
+    };
+  includeHTML();
+};
+</script>
+
+</head>
+
+<body bgcolor="white">
+<link REL=\"SHORTCUT ICON\" HREF=\"Images/gi.ico\">
+<table border="0" width="100%" >
+  <tr><td  colspan=3>
+      <table height=75 style="background-repeat:repeat;background-image:url('background2.jpg');">
+	<tr><td ><a href="http://www.polymtl.ca/"><img alt="LOG2420" ismap border=0 src="Images/logo03.gif" /></a></td>
+          <td>&nbsp;</td>
+	  <td width="100%"><FONT SIZE="+2" style="font-weight:bold;color:midnigntblue; font-family:Verdana,Arial,sans-serif;"> LOG2420,  Interfaces utilisateurs (en construction)</FONT><br><font size="+1" color="midnightblue">Hiver 2022</font></td>
+	  <td align=right valign=center valign=top>
+      </td></table>
+  </td></tr>
+
+  <tr><td colspan=3><img height=3 width=100% border=0 src="Images/border.png" />
+
+      <tr valign=top><td style="padding-top:18pt;" padding=0 >
+      </tr>
+</table>
+
+<div w3-include-html='nav.html' ></div>
+
+<div class="content" id="content">
+<h1 style="margin-top:0em;">Interfaces utilisateurs</h1>
+
+<p>Ce cours porte sur l'analyse et la conception d'interfaces utilisateurs.</p>
+
+<p>Consultez la page des séances dans les rubriques de navigation pour connaître le détail des sécances</p>
+
+<h2 class="horaire">Horaire</h2>
+
+
+<p>Consultez la rubrique <a href="Seances/index.html">Séances</a> pour le détail de chaque séance de cours.
+
+<div w3-include-html='equipe.html' ></div>
+
+<script src="google-analytics.js"></script>
+<script src="global.js"></script>
+
+</body>
+</html>

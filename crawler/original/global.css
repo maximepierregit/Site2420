@@ -1,0 +1,137 @@
+th {border-right:1pt solid ; border-bottom:2pt solid; background-color:#f7eecf;}
+.special td {border-right:1pt solid ; border-bottom:1pt solid;}
+.special li {margin-left:0ex; margin-right:0ex;}
+.charge, .charge a {color:chocolate;}
+.right  {text-align:right;}
+.correctif {color: red; font-weight:bold;}
+.nouv {background-color:#f7eecf; }
+.crossed, .old {text-decoration: line-through;}
+.exam {background-color:white;}
+.navabs {position: fixed; width:100px; display: block;}
+.content {margin-left:100px; padding:10px;}
+.examfinal {background-color:white;}
+ul {padding:2ex}
+
+A:visited {text-decoration: none;}
+
+A.selected:link,A.selected:visited {text-decoration: none;}
+
+A.title:link,A.nav:link
+    {text-decoration: none;}  
+A.title:visited,A.nav:visited
+    {text-decoration: none;}  
+A.title:hover,A.nav:hover,A.selected:hover
+    {color: chocolate;}
+A.title2:link,A.nav:link
+    {text-decoration: none;}  
+A.title2:visited,A.nav:visited
+    {text-decoration: none;}  
+A.title2:hover,A.nav:hover,A.selected:hover
+    {color: chocolate;}
+A.inactive
+    {color: red;}
+
+td.nav {padding-top:0.33ex; padding-left:0.5ex; padding-right:0.5ex; background-color:#f7eecf; }
+td.title {padding-top:0.33ex; padding-left:0.5ex; padding-right:0.5ex; background-color:#a9c0d3; }
+td.title2 {padding-top:0.33ex; padding-left:0.5ex; padding-right:0.5ex; background-color:#e9f0f4; }
+td.navlev2 {text-align: center;}
+td.selected {color: #f7eecf; padding-left:0.5ex; padding-right:0.5ex; }
+
+
+.err {color:red;}
+p,ul,li {}
+
+body
+{
+  background: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: midnightblue;
+}
+
+p.nav_0 { font-size: small; font-weight:bold;
+          padding-top:0; margin-bottom:0.25ex; margin-right: 1ex; margin-top:0.25ex;  }
+p.nav_1 { font-size: small; font-weight:bold;
+          padding-top:0; margin-bottom:0; margin-right: 1ex; margin-top:0.25ex; padding-right: 1ex; margin-left: 2ex; }
+
+pre.qr { font-size: small; }
+span.q { font-size: small; font-style: oblique; color:chocolate;}
+
+h1,h2 { margin-top: 2ex; color: #034f93; BORDER-TOP: chocolate 1px solid; width:95%;}
+h1 { font-weight:bold; font-size:x-large;}
+h2 { font-weight:bold; font-size:large;}
+h3 { font-weight:bold; font-size:medium; }
+h4 { font-weight:bold; font-size:small; }
+
+.menu0, a.menu0:link, a.menu0:visited
+                             {display: block; background: #FFFFFF; color: #483D8B; text-decoration: none; font-family: Verdana, Geneva, sans-serif; font-weight: bold; font-size: 9px; text-align: left; line-height: 1.1; padding-top: 2px; padding-bottom: 2px; padding-left: 6px; padding-right: 6px; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF;}
+.menu1, a.menu1:link, a.menu1:visited, a.menu1:active, a.menu1:hover, a.menu0:active, a.menu0:hover
+                             {display: block; background: #483D8B; color: #FFFFFF; text-decoration: none; font-family: Verdana, Geneva, sans-serif; font-weight: bold; font-size: 9px; text-align: left; line-height: 1.1; padding-top: 2px; padding-bottom: 2px; padding-left: 6px; padding-right: 6px; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF; border-left: 1px solid #FFFFFF; border-right: 1px solid #FFFFFF;}
+
+th {border-right:1pt solid ; border-bottom:2pt solid; background-color:#f7eecf;}
+.special td {border-right:1pt solid ; border-bottom:1pt solid;}
+.special li {margin-left:0ex; margin-right:0ex;}
+
+.charge, .charge a {color:chocolate;}
+.right  {text-align:right;}
+.correctif {color: red; font-weight:bold;}
+.crossed {text-decoration: line-through;}
+.exam {background-color:white;}
+.examfinal {background-color:white;}
+.grayed {background-color:#f7eecf}
+.title2grayed {background-color:#f7eecf;color:#a9c0d3;}
+A.grayed,A.nav {color:#a9c0d3;background-color:#f7eecf; text-decoration: none;}
+
+.highlight {background-color:#f7eecf;}
+.ancien {background-color:lightgrey; /*text-decoration:line-through*/;}
+.nouveau {background-color:yellow}
+.reform {background-color:orange}
+
+.nn {background-color:#dfdfef;}
+
+button.collapsible:before { 
+    background-image: url('/triangle2.png');
+    background-size: 15px 10px;
+    display: inline-block;
+    width: 15px; 
+    height: 10px;
+    content:"";
+}
+
+button.collapsible {
+    padding: 2px;
+    background-color: #EDF5FB;
+    color: midnightblue;
+    vertical-align: top;
+  }
+.collapsible {
+  background-color: #EDF5FB;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #c9e0f3;
+}
+
+.collapContent {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #EDF5FB;
+  }
+.troiscol  {
+  column-count: 3;
+}
+.troiscol a {
+  display: block;
+}
+.troiscol a:visited {
+  color: green;
+}

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta http-equiv="Content-Language" content="fr-ca">
+<link rel="shortcut icon" href="https://www.polymtl.ca/profiles/portail/themes/custom/theme_polytechnique/favicon.ico" type="image/vnd.microsoft.icon" />
+<LINK REL="STYLESHEET" HREF="../global.css" type="text/css">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+
+
+<TITLE>LOG2420 &ndash; Interfaces utilisateurs</TITLE>
+
+
+</HEAD>
+<style>
+  .avenir  {background-color: transparent; }
+  .annul {opacity:0.5; text-decoration: line-through;}
+  p, ul { padding-top: 0px; padding-bottom: 0px; margin-top:0px; margin-bottom:0px; }
+  .article {border-top:0 solid black;}
+  .preshow {display: block;}
+  .assign {display: block;}
+</style>
+
+
+<script>
+window.onload = function() {
+    includeHTML();
+    if(document.getElementById('nonexam2')) {
+	document.getElementById('nonexam2').addEventListener('click', function() {
+	    for(let i of document.getElementsByClassName('nonexam')) {
+		i.style.display = 'inline';
+	    }
+	});
+    }
+  processCollabsible();
+  collapContent = document.getElementsByClassName('collapsible');
+  if(collapContent.length > 0) {
+    Array.from(collapContent).forEach(i => {
+      ulTags = i.nextElementSibling.getElementsByTagName('ul');
+      if(ulTags.length > 0) {
+	i.innerHTML = i.innerText + '&nbsp;(' + ulTags[0].childElementCount + ')' ;
+      }
+    });
+  }
+}
+
+
+</script>
+<div w3-include-html="../global.html"></div> 
+
+<TITLE>LOG2420 &ndash; Interfaces utilisateurs</TITLE>
+
+
+</HEAD>
+
+<BODY BGCOLOR=WHITE>
+<link REL=\"SHORTCUT ICON\" HREF=\"../Images/gi.ico\">
+<table border="0" width="100%" >
+  <tr>
+    <td  colspan=3>
+      <table height=75 style="background-repeat:repeat;background-image:url('../background2.jpg');">
+	<tr><td ><a href="http://www.polymtl.ca/"><img alt="LOG2420" ismap border=0 src="../Images/logo03.gif" /></a></td>
+          <td>&nbsp;</td>
+	  <td width="100%"><FONT SIZE="+2" style="font-weight:bold;color:midnigntblue; font-family:Verdana,Arial,sans-serif;"> LOG2420,  Analyse et conception des interfaces utilisateurs</FONT><br><font size="+1" color="midnightblue">Automne 2022</font></td>
+	  <td align=right valign=center valign=top>
+	  </td>
+	</tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr><td colspan=3><img height=3 width=100% border=0 src="../Images/border.png" />
+
+      <tr valign=top><td style="padding-top:18pt;" padding=0 >
+      </tr>
+</table>
+
+<div w3-include-html='../nav.html' ></div>
+
+<div class="content" id="content">
+<h1 style="margin-top:0em;">Syllabus &ndash; Interfaces utilisateurs</h1>
+
+
+<div role="main" id="yui_3_17_2_1_1661258079611_37"><span id="maincontent"></span><h2>Syllabus de cours - Automne 2022</h2><div class="box py-3 generalbox center clearfix" id="yui_3_17_2_1_1661258079611_36"><div class="no-overflow" id="yui_3_17_2_1_1661258079611_35"><p></p>
+<h5><span style="color: inherit; font-family: inherit; font-size: 1.3em;">Description de l'annuaire</span></h5>Analyse et spécification des besoins des utilisateur. Ergonomie cognitive. Principes et règles de conception d'interface. Tests utilisateurs. Évaluation heuristique et inspection d'interface. Boîtes à outils. Systèmes de fenêtrage. Architecture logicielle et modèle de programmation événementielle. Communication entre objets. Adaptation du processus de développement logiciel. Aide et assistance. Analyses coûts-bénéfices.<h3 id="yui_3_17_2_1_1661258079611_34"><br></h3>
+<h3>Objectifs généraux</h3>
+<p><span style="font-size: 0.9375rem;">Le cours vise à amener les étudiants à :</span><br></p>
+<ul>
+    <li>connaître les principes de conception ergonomique de l'interface utilisateur ;</li>
+    <li>acquérir les compétences de base pour l'évaluation d'interfaces utilisateurs et pour effectuer des tests d'utilisabilité, et</li>
+    <li>acquérir les connaissances pour intégrer l'approche de conception centrée sur l'utilisateur dans le génie logiciel.</li>
+</ul>
+<p>Au terme de ce cours, l'étudiant sera apte à :</p>
+<ul>
+    <li>prototyper et valider des interfaces utilisateurs selon l'approche centrée sur l'utilisateur ;</li>
+    <li>identifier et valider les requis utilisateurs et à en gérer les risques associés ;</li>
+    <li>appliquer l'approche centrée sur l'utilisateur et en estimer les impacts et bénéfices, et</li>
+    <li>développer une interface utilisateur graphique</li>
+</ul>
+<h3>Objectifs des laboratoires</h3>
+<p>Les laboratoires permettront à l'étudiant de&nbsp;:</p>
+<ul>
+    <li><span style="font-size: 0.9375rem;">concevoir et d'implanter une interface humain-machine, et</span><br></li>
+    <li>effectuer des tests d'utilisateurs.</li>
+</ul>
+<h3><span style="color: inherit; font-family: inherit; font-size: 1.3em;">Emploi du temps</span><br></h3>
+<p>Le détail des séances se trouve dans la page&nbsp;<a href="Seances/index.html">Séances</a> des cours</p>
+<h3>Travaux pratiques</h3>
+<p>Les TPs portent sur quatre étapes du développement d'une interface Web. <br>Les étudiants auront à:</p>
+<p></p>
+<ul>
+    <li>TP1 - définition des exigences utilisateurs et familiarisation avec maquette basse fidélité;<br></li>
+    <li>TP2 - utilisabilité et maquette basse fidélité basée;</li>
+    <li>TP3 - itération sur exigences et prototypage d'une interface;</li>
+    <li>TP4 - prototypage haute fidélité;</li>
+    <li>TP5 - tests utilisateur, évaluation d'interface et recommandations.</li>
+</ul>Les étudiants pourront compter sur l'assistance d'enseignants dans des laboratoires se réalisant toutes les deux semaines.<p></p>
+<h3 id="eval">Évaluation</h3>
+<table cellspacing="0" cellpadding="3" bordercolor="black" border="">
+    <tbody>
+        <tr>
+            <th><strong>Mode d'évaluation</strong></th>
+            <th><strong>Volet couvert</strong></th>
+            <th><strong>Pondération</strong></th>
+        </tr>
+        <tr>
+            <td>TP1</td>
+            <td>Exigences et contexte d'utilisation<br></td>
+            <td align="right">7%</td>
+        </tr>
+        <tr>
+            <td>TP2</td>
+            <td>Maquette basse fidélité</td>
+            <td align="right">7%</td>
+        </tr>
+        <tr>
+            <td>TP3</td>
+            <td>Prototype<br></td>
+            <td align="right">7%</td>
+        </tr>
+        <tr>
+            <td>TP4</td>
+            <td>Tests utilisateurs</td>
+            <td align="right">12%</td>
+        </tr>
+        <tr>
+            <td>TP5</td>
+            <td>Tests utilisateurs</td>
+            <td align="right">7%</td>
+        </tr>
+        <tr>
+            <td>Ateliers</td>
+            <td>Quatre ateliers</td>
+            <td align="right">&nbsp;15%</td>
+        </tr>
+        <tr>
+            <td>Examen intra</td>
+            <td>Matière des cours</td>
+            <td align="right">&nbsp;15%</td>
+        </tr>
+        <tr>
+            <td>Examen final*</td>
+            <td>Matière complète</td>
+            <td align="right">30%</td>
+        </tr>
+        <tr>
+            <td colspan="2"><i>Total</i></td>
+            <td align="right"><i>100%</i></td>
+        </tr>
+        <tr>
+            <td colspan="3">* La moyenne pondérée des examens intra et final doit être d'au moins 50% pour obtenir la note de passage.</td>
+        </tr>
+    </tbody>
+</table>
+<h3><br></h3>
+<h3><span style="font-size: 1.3em;">Qualités</span><br></h3>Des douze qualités de l'ingénieur, sept sont directement ou indirectement couvertes dans le cours.<table id="qual" cellspacing="0" cellpadding="3" border="">
+    <tbody>
+        <tr>
+            <th>1. Connaissance en génie</th>
+            <th>2. Analyse de problèmes</th>
+            <th>3. Investigation</th>
+            <th>4. Conception</th>
+            <th>5. Utilisation d’outils d’ing.</th>
+            <th>6. Travail en équipe</th>
+            <th>7. Communication</th>
+            <th>8. Professionnalisme</th>
+            <th>9. Impacts Environm.</th>
+            <th>10. Déontologie</th>
+            <th>11. Économie et gestion de projets</th>
+            <th>12. Apprentissage continu</th>
+        </tr>
+        <tr>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td>X</td>
+            <td></td>
+            <td>X</td>
+            <td>X</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+        </tr>
+    </tbody>
+</table><br><br>
+<h3>Calendrier des séances</h3>
+
+Consultez la page <a href="Seances/index.html">Séances</a> pour le calendrier des séances.
+
+<h3>Personnes ressources</h3>
+
+<div w3-include-html='../equipe.html' ></div>
+
+<p style="padding-bottom:400px;"></p>
+
+<script src="../google-analytics.js"></script>
+<script src="../global.js"></script>
+<script src="../collap.js"></script>
+
+</div>
+
+</body>
+</html>

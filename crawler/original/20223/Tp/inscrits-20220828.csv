@@ -1,0 +1,337 @@
+"Nom, Prénom",Gr.,Ty.,Prog.,Courriel
+"Aarab, Ismaïl",01,C,BILOG,ismail.aarab@polymtl.ca
+"Abbas, Ali",01,C,BILOG,ali-1.abbas@polymtl.ca
+"Anctil, Vincent",01,C,BILOG,vincent.anctil@polymtl.ca
+"Awaad, Marc",01,C,BILOG,marc.awaad@polymtl.ca
+"Bamrim, Omar",01,C,BILOG,omar.bamrim@polymtl.ca
+"Belahcen, Hamza",01,C,BILOG,hamza.belahcen@polymtl.ca
+"Bellemare, Jérémi",01,C,BILOG,jeremi.bellemare@polymtl.ca
+"Benoit, Pierre-Olivier",01,C,BIIND,pierre-olivier.benoit@polymtl.ca
+"Ben Rabia, Meriam",01,C,BILOG,meriam.ben-rabia@polymtl.ca
+"Ben Thami, Omar",01,C,BILOG,omar.ben-thami@polymtl.ca
+"Brand, Romaine",01,C,BILOG,romaine.brand@polymtl.ca
+"Brizini, Mahfoud",01,C,BILOG,mahfoud.brizini@polymtl.ca
+"Cahingt, Nils",01,C,PCING,nils.cahingt@polymtl.ca
+"Caraballo Bonin, Jordan",01,C,BILOG,jordan.caraballo-bonin@polymtl.ca
+"Cen, Easky",01,C,BILOG,easky.cen@polymtl.ca
+"Chadid, Marie",01,C,BILOG,marie.chadid@polymtl.ca
+"Chadirdjian, Christopher",01,C,BILOG,christopher.chadirdjian@polymtl.ca
+"Chailleux, Clémentine",01,C,BILOG,clementine.chailleux@polymtl.ca
+"Chenak, Alaa Eddine",01,C,BILOG,alaa-eddine.chenak@polymtl.ca
+"Cheun, Thai Son",01,C,BILOG,thai-son.cheun@polymtl.ca
+"Cloutier, Simon",01,C,BILOG,simon-2.cloutier@polymtl.ca
+"Colavita, Mattéo",01,C,BILOG,matteo.colavita@polymtl.ca
+"Degrandpré, Charles",01,C,BILOG,charles.degrandpre@polymtl.ca
+"Desforges, Alexis",01,C,BILOG,alexis.desforges@polymtl.ca
+"Diker, Fatima Zahra",01,C,BILOG,fatima-zahra.diker@polymtl.ca
+"Doumon, Elena",01,C,BILOG,elena.doumon@polymtl.ca
+"Duval, Thomas",01,C,BILOG,thomas.duval@polymtl.ca
+"El Khoury, Ralph",01,C,BILOG,ralph.el-khoury@polymtl.ca
+"Elmoussaoui, Ali",01,C,BILOG,ali.elmoussaoui@polymtl.ca
+"Ezzedine, Mahdi",01,C,BILOG,mahdi.ezzedine@polymtl.ca
+"Falardeau, Olivier",01,C,BILOG,olivier.falardeau@polymtl.ca
+"Fournier, Alexandre",01,C,BILOG,alexandre-2.fournier@polymtl.ca
+"Gharib, Sidney",01,C,BILOG,sidney.gharib@polymtl.ca
+"Ghodbane, Aymen",01,C,BILOG,aymen.ghodbane@polymtl.ca
+"Glorieux, Émile",01,C,BILOG,emile.glorieux@polymtl.ca
+"Greige, Jason",01,C,BILOG,jason.greige@polymtl.ca
+"Grenier, Mathieu",01,C,BILOG,mathieu-2.grenier@polymtl.ca
+"Guyon, Elouan",01,C,BILOG,elouan.guyon@polymtl.ca
+"Halouani, Yanis",01,C,BILOG,yanis.halouani@polymtl.ca
+"Han, Sucy",01,C,BILOG,sucy.han@polymtl.ca
+"Kappauf, Edgar",01,C,BILOG,edgar.kappauf@polymtl.ca
+"Kassab, Vicky",01,C,BILOG,vicky.kassab@polymtl.ca
+"Lam, Alexandre",01,C,PCING,alexandre.lam@polymtl.ca
+"Lapointe, Christophe",01,C,BILOG,christophe.lapointe@polymtl.ca
+"Lim, Guek Lang",01,C,BILOG,guek-lang.lim@polymtl.ca
+"Lopez, Nicolas",01,C,BILOG,nicolas-2.lopez@polymtl.ca
+"Ly, Gia-Sherwin",01,C,BILOG,gia-sherwin.ly@polymtl.ca
+"Mousseau, Thomas",01,C,BILOG,thomas.mousseau@polymtl.ca
+"Niazi, Samim",01,C,BILOG,samim.niazi@polymtl.ca
+"Nichols, Aurélie",01,C,BILOG,aurelie.nichols@polymtl.ca
+"Nicolas, Alexis",01,C,BILOG,alexis.nicolas@polymtl.ca
+"Ocunev, Vladislav",01,C,BILOG,vladislav.ocunev@polymtl.ca
+"Owaida, Jason",01,C,BILOG,jason.owaida@polymtl.ca
+"Ozirska, Yuliia Yuriyivn",01,C,BILOG,yuliia-yuriyivn.ozirska@polymtl.ca
+"Pageot, Maxime",01,C,BILOG,maxime.pageot@polymtl.ca
+"Plante, Alexandre",01,C,BILOG,alexandre-1.plante@polymtl.ca
+"Qureshi, Junaid",01,C,BILOG,junaid.qureshi@polymtl.ca
+"Rakotoarivony, Faneva Miharitiana",01,C,BILOG,faneva.rakotoarivony@polymtl.ca
+"Rodriguez Rodriguez, Enrique Arsenio",01,C,BILOG,enrique-arsenio.rodriguez-rodriguez@polymtl.ca
+"Rouillard, Jeremy",01,C,BILOG,jeremy.rouillard@polymtl.ca
+"Sadmi, Lounes",01,C,BILOG,lounes.sadmi@polymtl.ca
+"Salem, Christopher",01,C,BILOG,christopher.salem@polymtl.ca
+"Sawka, Gabriel",01,C,BILOG,gabriel.sawka@polymtl.ca
+"Senécal, Jean-François",01,C,BILOG,jean-francois.senecal@polymtl.ca
+"Smati, Nacime",01,C,BILOG,nacime.smati@polymtl.ca
+"Tafat-Bouzid, Raouf",01,C,BILOG,raouf.tafat-bouzid@polymtl.ca
+"Tao, Tristan",01,C,BILOG,tristan.tao@polymtl.ca
+"Tran, Pierre",01,C,BILOG,pierre-2.tran@polymtl.ca
+"Tremblay, Laurel",01,C,BILOG,laurel.tremblay@polymtl.ca
+"Vachon, Eugène",01,C,BILOG,eugene.vachon@polymtl.ca
+"Vaillant, David",01,C,BILOG,david.vaillant@polymtl.ca
+"Veillette, Alexandre",01,C,BILOG,alexandre.veillette@polymtl.ca
+"Veilleux, Justin",01,C,BILOG,justin.veilleux@polymtl.ca
+"Villeneuve, Thomas",01,C,BILOG,thomas-2.villeneuve@polymtl.ca
+"Vu, Nam",01,C,P2INF,nam.vu@polymtl.ca
+"Yaacoub, Paul",01,C,BILOG,paul.yaacoub@polymtl.ca
+"Zair, Zakaria",01,C,BILOG,zakaria.zair@polymtl.ca
+"Ardekani-Djoneidi, Zarine Amy",01,L,BILOG,zarine-amy.ardekani-djoneidi@polymtl.ca
+"Ben Jemaa, Manel",01,L,BILOG,manel.ben-jemaa@polymtl.ca
+"Bhattacharjee, Prionkari",01,L,BILOG,prionkari.bhattacharjee@polymtl.ca
+"Boulahchiche, Ibrahim",01,L,BILOG,ibrahim.boulahchiche@polymtl.ca
+"Boutros, Roy",01,L,BILOG,roy.boutros@polymtl.ca
+"Chenak, Alaa Eddine",01,L,BILOG,alaa-eddine.chenak@polymtl.ca
+"Cornu-Emieux, Gaspard",01,L,PCING,gaspard.cornu-emieux@polymtl.ca
+"Doumon, Elena",01,L,BILOG,elena.doumon@polymtl.ca
+"Gharios, Karl",01,L,P2LOG,karl.gharios@polymtl.ca
+"Ghodbane, Aymen",01,L,BILOG,aymen.ghodbane@polymtl.ca
+"Greige, Jason",01,L,BILOG,jason.greige@polymtl.ca
+"Hammache, Mélissa",01,L,BILOG,melissa.hammache@polymtl.ca
+"Kappauf, Edgar",01,L,BILOG,edgar.kappauf@polymtl.ca
+"Louka, Gabriel",01,L,BILOG,gabriel.louka@polymtl.ca
+"Madzou, Prince",01,L,BILOG,prince-david.madzou@polymtl.ca
+"Marbehan, Léo",01,L,BILOG,leo.marbehan@polymtl.ca
+"Mardenli, Murielle",01,L,BILOG,murielle.mardenli@polymtl.ca
+"Marie, Salomé",01,L,BILOG,salome.marie@polymtl.ca
+"Petibon, Paul",01,L,BILOG,paul.petibon@polymtl.ca
+"Qureshi, Junaid",01,L,BILOG,junaid.qureshi@polymtl.ca
+"Sadmi, Lounes",01,L,BILOG,lounes.sadmi@polymtl.ca
+"Sima, Gerty Marcy",01,L,BILOG,gerty-marcy.sima@polymtl.ca
+"St-Amour, Louis Félix",01,L,BILOG,louis-felix.st-amour@polymtl.ca
+"Tadié, Bryan",01,L,BILOG,bryan.tadie@polymtl.ca
+"Toyo Demanou, Stéphane",01,L,BILOG,stephane.toyo-demanou@polymtl.ca
+"Tran, Pierre",01,L,BILOG,pierre-2.tran@polymtl.ca
+"Veilleux, Justin",01,L,BILOG,justin.veilleux@polymtl.ca
+"Yaacoub, Paul",01,L,BILOG,paul.yaacoub@polymtl.ca
+"Zlotea, Dumitru",01,L,BILOG,dumitru.zlotea@polymtl.ca
+"Abdi, Sabri",02,C,BILOG,sabri.abdi@polymtl.ca
+"Amara, Rayan",02,C,BILOG,rayan.amara@polymtl.ca
+"Arcand, Oscar",02,C,BILOG,oscar.arcand@polymtl.ca
+"Ardekani-Djoneidi, Zarine Amy",02,C,BILOG,zarine-amy.ardekani-djoneidi@polymtl.ca
+"Arsenault, Charles",02,C,BILOG,charles.arsenault@polymtl.ca
+"Bachand, Simon",02,C,BILOG,simon.bachand@polymtl.ca
+"Bakashov, Marsel",02,C,BILOG,marsel.bakashov@polymtl.ca
+"Bakir, Farid",02,C,BILOG,farid.bakir@polymtl.ca
+"Banna, Michael",02,C,BILOG,michael.banna@polymtl.ca
+"Banno-Cloutier, Léo",02,C,BILOG,leo.banno-cloutier@polymtl.ca
+"Bellagha, Mohamed Selim",02,C,BILOG,mohamed-selim.bellagha@polymtl.ca
+"Belloui, Lina",02,C,BILOG,lina.belloui@polymtl.ca
+"Benabbou, Younes",02,C,BILOG,younes.benabbou@polymtl.ca
+"Ben Jaber, Mariem",02,C,BIELE,mariem.ben-jaber@polymtl.ca
+"Ben Jemaa, Manel",02,C,BILOG,manel.ben-jemaa@polymtl.ca
+"Ben Rhouma, Ahmed",02,C,BILOG,ahmed.ben-rhouma@polymtl.ca
+"Bhattacharjee, Prionkari",02,C,BILOG,prionkari.bhattacharjee@polymtl.ca
+"Bilodeau-Lecomte, Francis",02,C,BILOG,francis.bilodeau-lecomte@polymtl.ca
+"Bouchard, Lucas",02,C,BILOG,lucas-2.bouchard@polymtl.ca
+"Boulahchiche, Ibrahim",02,C,BILOG,ibrahim.boulahchiche@polymtl.ca
+"Boutros, Roy",02,C,BILOG,roy.boutros@polymtl.ca
+"Brodeur, Coralie",02,C,BILOG,coralie.brodeur@polymtl.ca
+"Brosseau, Mathieu",02,C,BILOG,mathieu-2.brosseau@polymtl.ca
+"Bureau, Marco",02,C,BILOG,marco.bureau@polymtl.ca
+"Butault, Gaetan",02,C,BILOG,gaetan.butault@polymtl.ca
+"Chabot, Jérôme",02,C,BILOG,jerome.chabot@polymtl.ca
+"Chaoui, Mohamed",02,C,BILOG,mohamed-2.chaoui@polymtl.ca
+"Chowdhury, Rasel",02,C,BILOG,rasel.chowdhury@polymtl.ca
+"Cornu-Emieux, Gaspard",02,C,PCING,gaspard.cornu-emieux@polymtl.ca
+"Cotargasanu, Stefan",02,C,BILOG,stefan.cotargasanu@polymtl.ca
+"Dancause, Benjamin",02,C,BILOG,benjamin.dancause@polymtl.ca
+"Denis, Simon",02,C,BILOG,simon.denis@polymtl.ca
+"Desclaux, Etienne",02,C,BILOG,etienne.desclaux@polymtl.ca
+"Djouhri, Anissa",02,C,BILOG,anissa.djouhri@polymtl.ca
+"Doghri, Aziz",02,C,BILOG,mohamed-aziz.doghri@polymtl.ca
+"Ducas, Jacob",02,C,BILOG,jacob.ducas@polymtl.ca
+"Farhat, Ayah",02,C,BILOG,ayah.farhat@polymtl.ca
+"Fellah, Rayan",02,C,BILOG,rayan.fellah@polymtl.ca
+"Gagné, Simon",02,C,BILOG,simon-4.gagne@polymtl.ca
+"Gallant, Pascal",02,C,BILOG,pascal.gallant@polymtl.ca
+"Gharios, Karl",02,C,P2LOG,karl.gharios@polymtl.ca
+"Hamadache, Wassim",02,C,BILOG,wassim.hamadache@polymtl.ca
+"Hammache, Mélissa",02,C,BILOG,melissa.hammache@polymtl.ca
+"Hannachi, Skander",02,C,BILOG,skander.hannachi@polymtl.ca
+"Huber, Thierry",02,C,BILOG,thierry.huber@polymtl.ca
+"Kiiskinen, Aura Aksiina",02,C,S1LIB,aura-aksiina.kiiskinen@polymtl.ca
+"Koutsos, Asimina",02,C,BILOG,asimina.koutsos@polymtl.ca
+"Krayem, Mahdi Adnan",02,C,BILOG,mahdi.krayem@polymtl.ca
+"Lai, Jasper",02,C,BILOG,jasper.lai@polymtl.ca
+"Lammali, Mounir",02,C,BILOG,mounir.lammali@polymtl.ca
+"Langevin, Jérémy",02,C,BILOG,jeremy.langevin@polymtl.ca
+"Laurens, Alexandre",02,C,PCING,alexandre.laurens@polymtl.ca
+"Leduc, Cédryc",02,C,BILOG,cedryc.leduc@polymtl.ca
+"Légaré, Julien",02,C,BILOG,julien.legare@polymtl.ca
+"Louka, Gabriel",02,C,BILOG,gabriel.louka@polymtl.ca
+"Low, Jordan",02,C,BILOG,jordan.low@polymtl.ca
+"Madzou, Prince",02,C,BILOG,prince-david.madzou@polymtl.ca
+"Marbehan, Léo",02,C,BILOG,leo.marbehan@polymtl.ca
+"Marcil, Marie-Jade",02,C,BILOG,marie-jade.marcil@polymtl.ca
+"Mardenli, Murielle",02,C,BILOG,murielle.mardenli@polymtl.ca
+"Marie, Salomé",02,C,BILOG,salome.marie@polymtl.ca
+"Marsolais, Edouard",02,C,BILOG,edouard.marsolais@polymtl.ca
+"Martin, William",02,C,BILOG,william.martin@polymtl.ca
+"Massé, Jordan",02,C,BILOG,jordan.masse@polymtl.ca
+"Mellata, Fatima",02,C,BILOG,fatima.mellata@polymtl.ca
+"Mendez-Gutierrez, Christopher",02,C,BILOG,christopher.mendez@polymtl.ca
+"Moukheiber, Eric",02,C,BILOG,eric.moukheiber@polymtl.ca
+"Nassour, Nassour",02,C,BIINF,nassour.nassour@polymtl.ca
+"Nikoloudis, Ioannis",02,C,BILOG,ioannis.nikoloudis@polymtl.ca
+"Ouellette, Justine",02,C,BILOG,justine.ouellette@polymtl.ca
+"Ouhib, Maroua",02,C,BILOG,maroua.ouhib@polymtl.ca
+"Petibon, Paul",02,C,BILOG,paul.petibon@polymtl.ca
+"Piché, Benjamin",02,C,BILOG,benjamin.piche@polymtl.ca
+"Pierre, Maxime",02,C,BILOG,maxime.pierre@polymtl.ca
+"Pierre, Michlove",02,C,BILOG,michlove.pierre@polymtl.ca
+"Prévost, Mathieu",02,C,BILOG,mathieu-1.prevost@polymtl.ca
+"Raymond, Anne",02,C,BILOG,anne.raymond@polymtl.ca
+"Rhanmouni, Mohamed Reda",02,C,BILOG,mohamed-reda.rhanmouni@polymtl.ca
+"Roy-Ascanio, Jonathan",02,C,BILOG,jonathan.roy-ascanio@polymtl.ca
+"Roy Dubreuil, Emmanuelle",02,C,BIINF,emmanuelle.roy-dubreuil@polymtl.ca
+"Roy, Sébastien",02,C,BILOG,sebastien-6.roy@polymtl.ca
+"Samoylenko, Ivan",02,C,BILOG,ivan.samoylenko@polymtl.ca
+"Sauquet, Justine",02,C,BILOG,justine.sauquet@polymtl.ca
+"Sima, Gerty Marcy",02,C,BILOG,gerty-marcy.sima@polymtl.ca
+"St-Amour, Louis Félix",02,C,BILOG,louis-felix.st-amour@polymtl.ca
+"Tadié, Bryan",02,C,BILOG,bryan.tadie@polymtl.ca
+"Tamakloe, Amira-Fatim",02,C,BILOG,amira.tamakloe@polymtl.ca
+"Toyo Demanou, Stéphane",02,C,BILOG,stephane.toyo-demanou@polymtl.ca
+"Tremblay-Noel, Olivier",02,C,BILOG,olivier.tremblay-noel@polymtl.ca
+"Zahreddine, Nour",02,C,BILOG,nour.zahreddine@polymtl.ca
+"Zlotea, Dumitru",02,C,BILOG,dumitru.zlotea@polymtl.ca
+"Abdi, Sabri",02,L,BILOG,sabri.abdi@polymtl.ca
+"Amara, Rayan",02,L,BILOG,rayan.amara@polymtl.ca
+"Arcand, Oscar",02,L,BILOG,oscar.arcand@polymtl.ca
+"Awaad, Marc",02,L,BILOG,marc.awaad@polymtl.ca
+"Bachand, Simon",02,L,BILOG,simon.bachand@polymtl.ca
+"Bakir, Farid",02,L,BILOG,farid.bakir@polymtl.ca
+"Belloui, Lina",02,L,BILOG,lina.belloui@polymtl.ca
+"Ben Rabia, Meriam",02,L,BILOG,meriam.ben-rabia@polymtl.ca
+"Ben Rhouma, Ahmed",02,L,BILOG,ahmed.ben-rhouma@polymtl.ca
+"Ben Thami, Omar",02,L,BILOG,omar.ben-thami@polymtl.ca
+"Caraballo Bonin, Jordan",02,L,BILOG,jordan.caraballo-bonin@polymtl.ca
+"Chabot, Jérôme",02,L,BILOG,jerome.chabot@polymtl.ca
+"Chadid, Marie",02,L,BILOG,marie.chadid@polymtl.ca
+"Dancause, Benjamin",02,L,BILOG,benjamin.dancause@polymtl.ca
+"Desclaux, Etienne",02,L,BILOG,etienne.desclaux@polymtl.ca
+"Duval, Thomas",02,L,BILOG,thomas.duval@polymtl.ca
+"Elmoussaoui, Ali",02,L,BILOG,ali.elmoussaoui@polymtl.ca
+"Falardeau, Olivier",02,L,BILOG,olivier.falardeau@polymtl.ca
+"Gagné, Simon",02,L,BILOG,simon-4.gagne@polymtl.ca
+"Hannachi, Skander",02,L,BILOG,skander.hannachi@polymtl.ca
+"Kassab, Vicky",02,L,BILOG,vicky.kassab@polymtl.ca
+"Koutsos, Asimina",02,L,BILOG,asimina.koutsos@polymtl.ca
+"Leduc, Cédryc",02,L,BILOG,cedryc.leduc@polymtl.ca
+"Massé, Jordan",02,L,BILOG,jordan.masse@polymtl.ca
+"Nichols, Aurélie",02,L,BILOG,aurelie.nichols@polymtl.ca
+"Pierre, Michlove",02,L,BILOG,michlove.pierre@polymtl.ca
+"Tao, Tristan",02,L,BILOG,tristan.tao@polymtl.ca
+"Vachon, Eugène",02,L,BILOG,eugene.vachon@polymtl.ca
+"Zahreddine, Nour",02,L,BILOG,nour.zahreddine@polymtl.ca
+"Aarab, Ismaïl",03,L,BILOG,ismail.aarab@polymtl.ca
+"Bakashov, Marsel",03,L,BILOG,marsel.bakashov@polymtl.ca
+"Banna, Michael",03,L,BILOG,michael.banna@polymtl.ca
+"Belahcen, Hamza",03,L,BILOG,hamza.belahcen@polymtl.ca
+"Bellemare, Jérémi",03,L,BILOG,jeremi.bellemare@polymtl.ca
+"Brizini, Mahfoud",03,L,BILOG,mahfoud.brizini@polymtl.ca
+"Butault, Gaetan",03,L,BILOG,gaetan.butault@polymtl.ca
+"Chadirdjian, Christopher",03,L,BILOG,christopher.chadirdjian@polymtl.ca
+"Cloutier, Simon",03,L,BILOG,simon-2.cloutier@polymtl.ca
+"Colavita, Mattéo",03,L,BILOG,matteo.colavita@polymtl.ca
+"Degrandpré, Charles",03,L,BILOG,charles.degrandpre@polymtl.ca
+"Desforges, Alexis",03,L,BILOG,alexis.desforges@polymtl.ca
+"Ezzedine, Mahdi",03,L,BILOG,mahdi.ezzedine@polymtl.ca
+"Fournier, Alexandre",03,L,BILOG,alexandre-2.fournier@polymtl.ca
+"Glorieux, Émile",03,L,BILOG,emile.glorieux@polymtl.ca
+"Guyon, Elouan",03,L,BILOG,elouan.guyon@polymtl.ca
+"Halouani, Yanis",03,L,BILOG,yanis.halouani@polymtl.ca
+"Kiiskinen, Aura Aksiina",03,L,S1LIB,aura-aksiina.kiiskinen@polymtl.ca
+"Krayem, Mahdi Adnan",03,L,BILOG,mahdi.krayem@polymtl.ca
+"Laurens, Alexandre",03,L,PCING,alexandre.laurens@polymtl.ca
+"Ly, Gia-Sherwin",03,L,BILOG,gia-sherwin.ly@polymtl.ca
+"Mousseau, Thomas",03,L,BILOG,thomas.mousseau@polymtl.ca
+"Ouellette, Justine",03,L,BILOG,justine.ouellette@polymtl.ca
+"Ozirska, Yuliia Yuriyivn",03,L,BILOG,yuliia-yuriyivn.ozirska@polymtl.ca
+"Pageot, Maxime",03,L,BILOG,maxime.pageot@polymtl.ca
+"Roy-Ascanio, Jonathan",03,L,BILOG,jonathan.roy-ascanio@polymtl.ca
+"Roy, Sébastien",03,L,BILOG,sebastien-6.roy@polymtl.ca
+"Salem, Christopher",03,L,BILOG,christopher.salem@polymtl.ca
+"Sauquet, Justine",03,L,BILOG,justine.sauquet@polymtl.ca
+"Sawka, Gabriel",03,L,BILOG,gabriel.sawka@polymtl.ca
+"Senécal, Jean-François",03,L,BILOG,jean-francois.senecal@polymtl.ca
+"Smati, Nacime",03,L,BILOG,nacime.smati@polymtl.ca
+"Tafat-Bouzid, Raouf",03,L,BILOG,raouf.tafat-bouzid@polymtl.ca
+"Veillette, Alexandre",03,L,BILOG,alexandre.veillette@polymtl.ca
+"Villeneuve, Thomas",03,L,BILOG,thomas-2.villeneuve@polymtl.ca
+"Abbas, Ali",04,L,BILOG,ali-1.abbas@polymtl.ca
+"Arsenault, Charles",04,L,BILOG,charles.arsenault@polymtl.ca
+"Banno-Cloutier, Léo",04,L,BILOG,leo.banno-cloutier@polymtl.ca
+"Ben Jaber, Mariem",04,L,BIELE,mariem.ben-jaber@polymtl.ca
+"Benoit, Pierre-Olivier",04,L,BIIND,pierre-olivier.benoit@polymtl.ca
+"Bureau, Marco",04,L,BILOG,marco.bureau@polymtl.ca
+"Cahingt, Nils",04,L,PCING,nils.cahingt@polymtl.ca
+"Cheun, Thai Son",04,L,BILOG,thai-son.cheun@polymtl.ca
+"Chowdhury, Rasel",04,L,BILOG,rasel.chowdhury@polymtl.ca
+"El Khoury, Ralph",04,L,BILOG,ralph.el-khoury@polymtl.ca
+"Farhat, Ayah",04,L,BILOG,ayah.farhat@polymtl.ca
+"Fellah, Rayan",04,L,BILOG,rayan.fellah@polymtl.ca
+"Gallant, Pascal",04,L,BILOG,pascal.gallant@polymtl.ca
+"Gharib, Sidney",04,L,BILOG,sidney.gharib@polymtl.ca
+"Han, Sucy",04,L,BILOG,sucy.han@polymtl.ca
+"Huber, Thierry",04,L,BILOG,thierry.huber@polymtl.ca
+"Lai, Jasper",04,L,BILOG,jasper.lai@polymtl.ca
+"Lam, Alexandre",04,L,PCING,alexandre.lam@polymtl.ca
+"Langevin, Jérémy",04,L,BILOG,jeremy.langevin@polymtl.ca
+"Lapointe, Christophe",04,L,BILOG,christophe.lapointe@polymtl.ca
+"Lim, Guek Lang",04,L,BILOG,guek-lang.lim@polymtl.ca
+"Lopez, Nicolas",04,L,BILOG,nicolas-2.lopez@polymtl.ca
+"Low, Jordan",04,L,BILOG,jordan.low@polymtl.ca
+"Martin, William",04,L,BILOG,william.martin@polymtl.ca
+"Nassour, Nassour",04,L,BIINF,nassour.nassour@polymtl.ca
+"Niazi, Samim",04,L,BILOG,samim.niazi@polymtl.ca
+"Nikoloudis, Ioannis",04,L,BILOG,ioannis.nikoloudis@polymtl.ca
+"Piché, Benjamin",04,L,BILOG,benjamin.piche@polymtl.ca
+"Pierre, Maxime",04,L,BILOG,maxime.pierre@polymtl.ca
+"Raymond, Anne",04,L,BILOG,anne.raymond@polymtl.ca
+"Rodriguez Rodriguez, Enrique Arsenio",04,L,BILOG,enrique-arsenio.rodriguez-rodriguez@polymtl.ca
+"Rouillard, Jeremy",04,L,BILOG,jeremy.rouillard@polymtl.ca
+"Samoylenko, Ivan",04,L,BILOG,ivan.samoylenko@polymtl.ca
+"Vu, Nam",04,L,P2INF,nam.vu@polymtl.ca
+"Zair, Zakaria",04,L,BILOG,zakaria.zair@polymtl.ca
+"Anctil, Vincent",05,L,BILOG,vincent.anctil@polymtl.ca
+"Bamrim, Omar",05,L,BILOG,omar.bamrim@polymtl.ca
+"Bellagha, Mohamed Selim",05,L,BILOG,mohamed-selim.bellagha@polymtl.ca
+"Benabbou, Younes",05,L,BILOG,younes.benabbou@polymtl.ca
+"Bilodeau-Lecomte, Francis",05,L,BILOG,francis.bilodeau-lecomte@polymtl.ca
+"Bouchard, Lucas",05,L,BILOG,lucas-2.bouchard@polymtl.ca
+"Brand, Romaine",05,L,BILOG,romaine.brand@polymtl.ca
+"Brodeur, Coralie",05,L,BILOG,coralie.brodeur@polymtl.ca
+"Brosseau, Mathieu",05,L,BILOG,mathieu-2.brosseau@polymtl.ca
+"Cen, Easky",05,L,BILOG,easky.cen@polymtl.ca
+"Chailleux, Clémentine",05,L,BILOG,clementine.chailleux@polymtl.ca
+"Chaoui, Mohamed",05,L,BILOG,mohamed-2.chaoui@polymtl.ca
+"Cotargasanu, Stefan",05,L,BILOG,stefan.cotargasanu@polymtl.ca
+"Denis, Simon",05,L,BILOG,simon.denis@polymtl.ca
+"Diker, Fatima Zahra",05,L,BILOG,fatima-zahra.diker@polymtl.ca
+"Djouhri, Anissa",05,L,BILOG,anissa.djouhri@polymtl.ca
+"Doghri, Aziz",05,L,BILOG,mohamed-aziz.doghri@polymtl.ca
+"Ducas, Jacob",05,L,BILOG,jacob.ducas@polymtl.ca
+"Grenier, Mathieu",05,L,BILOG,mathieu-2.grenier@polymtl.ca
+"Hamadache, Wassim",05,L,BILOG,wassim.hamadache@polymtl.ca
+"Lammali, Mounir",05,L,BILOG,mounir.lammali@polymtl.ca
+"Légaré, Julien",05,L,BILOG,julien.legare@polymtl.ca
+"Marcil, Marie-Jade",05,L,BILOG,marie-jade.marcil@polymtl.ca
+"Marsolais, Edouard",05,L,BILOG,edouard.marsolais@polymtl.ca
+"Mellata, Fatima",05,L,BILOG,fatima.mellata@polymtl.ca
+"Mendez-Gutierrez, Christopher",05,L,BILOG,christopher.mendez@polymtl.ca
+"Moukheiber, Eric",05,L,BILOG,eric.moukheiber@polymtl.ca
+"Nicolas, Alexis",05,L,BILOG,alexis.nicolas@polymtl.ca
+"Ocunev, Vladislav",05,L,BILOG,vladislav.ocunev@polymtl.ca
+"Ouhib, Maroua",05,L,BILOG,maroua.ouhib@polymtl.ca
+"Owaida, Jason",05,L,BILOG,jason.owaida@polymtl.ca
+"Plante, Alexandre",05,L,BILOG,alexandre-1.plante@polymtl.ca
+"Prévost, Mathieu",05,L,BILOG,mathieu-1.prevost@polymtl.ca
+"Rakotoarivony, Faneva Miharitiana",05,L,BILOG,faneva.rakotoarivony@polymtl.ca
+"Rhanmouni, Mohamed Reda",05,L,BILOG,mohamed-reda.rhanmouni@polymtl.ca
+"Roy Dubreuil, Emmanuelle",05,L,BIINF,emmanuelle.roy-dubreuil@polymtl.ca
+"Tamakloe, Amira-Fatim",05,L,BILOG,amira.tamakloe@polymtl.ca
+"Tremblay, Laurel",05,L,BILOG,laurel.tremblay@polymtl.ca
+"Tremblay-Noel, Olivier",05,L,BILOG,olivier.tremblay-noel@polymtl.ca
+"Vaillant, David",05,L,BILOG,david.vaillant@polymtl.ca
