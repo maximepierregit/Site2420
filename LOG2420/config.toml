@@ -1,0 +1,52 @@
+baseURL = ''
+languageCode = 'fr-ca'
+title = 'LOG2420 - Interfaces utilisateurs'
+# https://themes.gohugo.io/themes/soho/
+theme = 'soho'
+enableInlineShortcodes = true
+
+summarylength = 10
+enableEmoji = true
+
+[params]
+author = "Author Name"
+description = ""
+# description = "LOG2420 - Anal. et conc. des interfaces utilisateurs"
+
+## Set one of:
+# gravatar = "soho@example.com"
+# profilePicture = "images/profile.png"
+
+# copyright = "Author Name"
+# license = "CC BY-SA 4.0"
+# licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+[menu]
+#   mainSections = ["A22"]
+
+  [[menu.main]]
+  name = "Automne 2022"
+  weight = 100
+  identifier = "A22"
+  url = "/A22/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4

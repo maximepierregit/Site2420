@@ -1,0 +1,3 @@
+[submodule "LOG2420/themes/soho"]
+	path = LOG2420/themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
