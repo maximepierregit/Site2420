@@ -24,6 +24,10 @@ description = ""
 ## Set custom theme color.
 # themeColor = "#fc2803"
 
+[Params]
+  DisableShare = true
+  DisableComments = true
+
 [menu]
 #   mainSections = ["A22"]
 
